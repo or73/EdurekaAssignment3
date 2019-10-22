@@ -11,10 +11,10 @@ Create a collection called 'movies' and perform the queries listed below:
 6. Query that returns all the movies that have both the 'Super hit' and the 'Super Duper hit' achievements.   
 7. Query that returns only those movies that have achievements.   
 
-##Variables   
+## Variables   
 A package (`dotenv`) has been installed from npm, to create environment variables.   
 `npm i dotenv`   
 A `.env` file has been created in the root directory of the project.  And, all environment variables have been stored in this file.
 
-##Run App
+## Run App
 `node app.js`
